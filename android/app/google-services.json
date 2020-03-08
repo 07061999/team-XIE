@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866356959482",
+    "firebase_url": "https://receipt-7689f.firebaseio.com",
+    "project_id": "receipt-7689f",
+    "storage_bucket": "receipt-7689f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866356959482:android:29d9c2acd43162808b1143",
+        "android_client_info": {
+          "package_name": "com.agnel.receipt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866356959482-s9gd7hg8mbk8n9bprjc4k4qn77np5ogv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agnel.receipt",
+            "certificate_hash": "06c8a1805fa6d1fadb7e5dbf0ce697b6c485f75e"
+          }
+        },
+        {
+          "client_id": "866356959482-i87ac57o82rp0s7mn08bs6sg26oc2a15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWlNQ63kCin51Svp4z_2l0RcV4xhQhtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866356959482-i87ac57o82rp0s7mn08bs6sg26oc2a15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
