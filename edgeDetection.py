@@ -73,7 +73,7 @@ cv2.imshow("Diff", threshold_img)
 
 
 result=pytesseract.image_to_string(warped)
-python(result)
+print(result)
 
 with open("outfile.txt","w+") as file:
 	file.write(result)
